@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Vue.js
 - 💬 Ask me about anything
-- 📫 How to reach me: [@elvendrim](https://twitter.com/elvendrim) or <a rel="me" href="https://mastodon.social/@elvendrim">mastodon.social/@elvendrim</a>
+- 📫 How to reach me: [@elvendrim](https://twitter.com/elvendrim)
 - ⚡ Fun fact: I :heart: :cat:s
 
 ## My stats
